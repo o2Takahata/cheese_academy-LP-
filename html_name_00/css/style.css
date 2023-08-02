@@ -1,1 +1,63 @@
 /* ここから下に記載していく */
+.header_all {
+    display: flex;
+    
+}
+
+.header {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    float: right;
+}
+
+.header_about {
+    font-size: 21px;
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+}
+
+.header_course {
+    font-size: 21px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 50px; 
+}
+
+.header_news {
+    font-size: 21px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 50px; 
+}
+
+.header_access {
+    font-size: 21px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 50px;
+}
+
+.header_contact {
+    font-size: 21px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 50px;  
+}
+
+.box {
+    position: relative;
+}
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+ 
